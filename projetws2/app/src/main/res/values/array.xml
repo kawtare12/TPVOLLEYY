@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="villes">
+        <item>Casablanca</item>
+        <item>Rabat</item>
+        <item>Fes</item>
+        <item>Tanger</item>
+        <item>El Jadida</item>
+    </array>
+
+
+</resources>

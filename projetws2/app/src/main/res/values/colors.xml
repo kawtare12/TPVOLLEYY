@@ -1,0 +1,4 @@
+<resources>
+    <color name="dialog_text_color">#000000</color> <!-- Couleur du texte de l'AlertDialog -->
+    <!-- Ajoutez d'autres couleurs personnalisées ici -->
+</resources>
